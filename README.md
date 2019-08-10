@@ -5,6 +5,8 @@ A music game I made in a group project in university
 
 In this game you control Sala the salamander, embarking on a musical adventure. Each level has a different theme, and flows from one to the next. Your objective is simple: survive to the end!
 
+Link to video: https://www.youtube.com/watch?v=KiOxb9Yz64U
+
 ## Instructions
 
 Simply use the mouse to move Sala. Avoid the various obstacles, which are generated such that they are in time to the music.
